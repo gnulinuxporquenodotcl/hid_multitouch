@@ -1,0 +1,3 @@
+SUBSYSTEM=="usb", ATTRS{idVendor}=="04b4", ATTRS{idProduct}=="c001", RUN+="/bin/sh /lib/udev/load_hid_multitouch.sh $env{ID_VENDOR_ID} $env{ID_MODEL_ID}"
+SUBSYSTEM=="usb", ATTRS{idVendor}=="1870", ATTRS{idProduct}=="0100", RUN+="/bin/sh /lib/udev/load_hid_multitouch.sh $env{ID_VENDOR_ID} $env{ID_MODEL_ID}"
+
