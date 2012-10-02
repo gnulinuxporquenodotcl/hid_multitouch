@@ -1,0 +1,1 @@
+cmd_arch/x86/syscalls/../include/generated/asm/syscalls_32.h := /bin/bash '/home/ed00m/Proyectos/GITHUB/gnulinuxorquenodotcl/kmultitouch/k3.6-rc4/linux-3.6-rc4/arch/x86/syscalls/syscalltbl.sh' /home/ed00m/Proyectos/GITHUB/gnulinuxorquenodotcl/kmultitouch/k3.6-rc4/linux-3.6-rc4/arch/x86/syscalls/syscall_32.tbl arch/x86/syscalls/../include/generated/asm/syscalls_32.h

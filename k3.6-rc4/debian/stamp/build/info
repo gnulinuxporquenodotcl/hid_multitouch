@@ -1,0 +1,19 @@
+binutils-2.22-6.1
+dpkg-1.16.8
+dpkg-dev-1.16.8
+gcc-4:4.7.1-1
+gcc-4.4-base:i386-4.4.7-1
+gcc-4.6-4.6.3-8
+gcc-4.6-base:i386-4.6.3-8
+gcc-4.7-4.7.1-2
+gcc-4.7-base:i386-4.7.1-2
+libc6:i386-2.13-35
+libc6-dbg:i386-2.13-35
+libc6-dev:i386-2.13-35
+libc6-i686:i386-2.13-35
+make-3.81-8.2
+perl-5.14.2-12
+this was built on a machine with the kernel:
+Linux ANEMOI 3.2.0-3-686-pae #1 SMP Mon Jul 23 03:50:34 UTC 2012 i686 GNU/Linux
+using the compiler:
+gcc version 4.7.1 (Debian 4.7.1-2) 
